@@ -11,6 +11,7 @@
     "polyfill"
   ],
   "author": "Daniel Lewis",
+  "repository": "https://github.com/mrdaniellewis/node-require-promise.git",
   "license": "ISC",
   "dependencies": {
     "promise-polyfill": "*"
