@@ -1,6 +1,6 @@
 {
   "name": "require-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper around promise-polyfill to load the polyfill only if Promise isn't natively avaliable",
   "main": "index.js",
   "scripts": {
